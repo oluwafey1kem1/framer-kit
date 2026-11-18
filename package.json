@@ -1,0 +1,8 @@
+{
+  "name": "ikey-framer-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Accessible motion and interaction components for Framer",
+  "license": "MIT",
+  "peerDependencies": { "framer": "*", "react": ">=18" }
+}
